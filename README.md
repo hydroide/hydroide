@@ -17,9 +17,9 @@
 
 ## 0. 框架/库
 
-Qt 5.12.3+
-Boost 1.61+
-Python 3.7+
+1. Qt 5.12.3+
+2. Boost 1.61+
+3. Python 3.7+
 
 ## 1. 克隆
 
@@ -48,7 +48,7 @@ git submodule 位于 dependencies/boost
     cd dependencies/boost
     ./bootstrap.sh
     ./b2 headers
-```console
+```
 
 boost 及它的 submodule 非常大，可忽略这个 submodule ，下载 boost 发行版的包放在 dependencies/boost 中。
 
