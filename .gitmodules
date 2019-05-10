@@ -1,0 +1,15 @@
+[submodule "dependencies/boost"]
+	path = dependencies/boost
+	url = https://github.com/boostorg/boost.git
+[submodule "commons"]
+	path = commons
+	url = https://github.com/hydroide/commons.git
+[submodule "graphicswidgets"]
+	path = graphicswidgets
+	url = https://github.com/hydroide/graphicswidgets.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/hydroide/plugins.git
+[submodule "src"]
+	path = src
+	url = https://github.com/hydroide/src.git
